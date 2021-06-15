@@ -75,7 +75,6 @@ This software uses the following open source packages:
 - [Student Management System](https://github.com/rutuparna07/StudentManagementSystem) - CRUD implementation using Core Java
 
 
-> [rutuparna07.github.io](https://rutuparna07.github.io/rutuparna-kudtarkar/) &nbsp;&middot;&nbsp;
-> GitHub [@rutuparna07](https://github.com/rutuparna07) &nbsp;&middot;&nbsp;
-> LinkedIn [@rutuparna-kudtarkar](https://www.linkedin.com/in/rutuparna-kudtarkar/)
+> GitHub [@Bishal-Nakoda](https://github.com/Bishal-Nakoda) &nbsp;&middot;&nbsp;
+> LinkedIn [@bishal-nakoda](https://www.linkedin.com/in/bishal-nakoda/)
 
