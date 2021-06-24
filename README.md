@@ -71,8 +71,8 @@ This software uses the following open source packages:
 
 ## You may also like...
 
-- [BRSHop](https://github.com/rutuparna07/BRShop) - A Django based E-Commerce web application
-- [Student Management System](https://github.com/rutuparna07/StudentManagementSystem) - CRUD implementation using Core Java
+- [BRSHop](https://github.com/Bishal-Nakoda/BRShop) - A Django based E-Commerce web application
+- [Student Management System](https://github.com/Bishal-Nakoda/StudentManagementSystem) - CRUD implementation using Core Java
 
 
 > GitHub [@Bishal-Nakoda](https://github.com/Bishal-Nakoda) &nbsp;&middot;&nbsp;
